@@ -1,4 +1,4 @@
 # teszt
 halado java teszt
-szia hello 
+szia hell4
 hellb
